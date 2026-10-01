@@ -1,5 +1,5 @@
 {
-    "name": "PlayModeTests",
+    "name": "LiveKit.PlayModeTests",
     "rootNamespace": "LiveKit.PlayModeTests",
     "references": [
         "UnityEngine.TestRunner",
